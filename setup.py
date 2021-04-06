@@ -44,7 +44,7 @@ extras_require = {
 
 setup(name='discord.py',
       author='Rapptz',
-      url='https://github.com/Rapptz/discord.py',
+      url='https://github.com/Trtox/herokupy',
       project_urls={
         "Documentation": "https://discordpy.readthedocs.io/en/latest/",
         "Issue tracker": "https://github.com/Rapptz/discord.py/issues",
