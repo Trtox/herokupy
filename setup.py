@@ -39,6 +39,8 @@ extras_require = {
     ]
 }
 
+readme = ''
+
 setup(name='discord.py',
       author='Rapptz',
       url='https://github.com/Trtox/herokupy',
